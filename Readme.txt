@@ -10,13 +10,13 @@ WEBSITE 4YOUR PHONE
 Landing Page
 1. Pertama-tama tampilan awal website adalah landing page yang memiliki 1 halaman tetapi halaman tersebut memiliki berbagai macam yaitu Home, About Us, Our Team, dan Get Started
 2. Untuk halaman Home terdapat Logo dan sedikit tentang mengenai apa itu 4Your Phone
-![Landing Page Home](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/27b2b9dc-f287-4388-a396-53edf67ab3a6)
+![Landing Page Home](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/c59d5174-3059-4e61-9600-b373abe7384e)
 
 3. Untuk halaman About Us tentang apa 4Your Phone
-![Landing Page About Us](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/479a2a23-fdd6-4669-bf31-bda4c4a5de2e)
+![Landing Page About Us](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/47a512da-cb4c-4622-8364-ad493c24d471)
 
 4. Halaman Our Team terdapat nama anggota dari kelompok kami
-![Landing Page Team](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/36c9995c-7f6c-4fe1-ac6c-cba1e900c1b1)
+![Landing Page Team](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/79d8e9e9-f071-4c08-8fe1-48dc21b53e68)
 
 5. Halaman Get Started dimana halaman untuk melakukan login dan registrasi pada website 4Your Phone
 
