@@ -22,10 +22,10 @@ Landing Page
 
 Login dan Register
 1. Halaman Login terdapat email dan password sebelum memasuki email dan password kita harus melakukan registrasi
-![Login](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/48f864ef-9b05-4653-be76-8947b7a1a896)
+![Login](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/f92583c6-28e1-4d72-9dde-e373cb76541d)
 
 2. Pada Halaman Registrasi kita akan memasukkan nama, email, password, confirm password, dan terdapat 3 role pengguna yaitu admin, pegawai, dan pembeli
-![Reg](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/33edb0a4-9613-4b29-a9c0-aff4a44146d8)
+![Reg](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/770cd6ad-92a8-4aa7-b674-5aa2da474b43)
 
 3. Jika sudah melakukan registrasi, kita bisa melakukan login untuk mengakses halaman 
 
