@@ -91,7 +91,7 @@ A. USE CASE DIAGRAM 4YOURPHONE
 
 
 B. ERD 4YOURPHONE
-
+![IMG-20230511-WA0001](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/6c39cc49-6d95-48d7-9d91-d886025637e0)
 
  
 
