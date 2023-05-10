@@ -85,7 +85,7 @@ Halaman Pembeli
 
 
 
-USE CASE 
+A. USE CASE DIAGRAM 4YOURPHONE
 ![Use Case Diagram - Toko Hp drawio](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/120117342/0a44a5ff-5fc6-4408-96b7-24074a67b6a6)
 
 
