@@ -3,6 +3,7 @@
 Anggota Kelompok
 1. Fathurrahman (2109116109)
 2. Amelia Nur Rizqa (2109116121)
+3. Nicola Fernando Bala (2109116122)
 
 WEBSITE 4YOUR PHONE
 
