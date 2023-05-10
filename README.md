@@ -80,5 +80,14 @@ Halaman Pembeli
 9.  Pada Halaman Checkout menampilkan data alamat pembeli untuk pengiriman barang
 ![Pembeli Cart](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/82979241-6d86-4ddf-a2f8-c4e7c79dae18)
 
+
+
+
+
+
+USE CASE 
+![Use Case Diagram - Toko Hp drawio](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/120117342/0a44a5ff-5fc6-4408-96b7-24074a67b6a6)
+
+
  
 
