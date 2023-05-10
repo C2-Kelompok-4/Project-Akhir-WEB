@@ -1,9 +1,8 @@
 # Project-Akhir-WEB
 
 Anggota Kelompok
-1. Fathurrahman (2109116
+1. Fathurrahman (2109116109)
 2. Amelia Nur Rizqa (2109116121)
-3. Nicola Fernando Bala (2109116122)
 
 WEBSITE 4YOUR PHONE
 
@@ -68,5 +67,17 @@ Halaman Pembeli
 5. Pada Halaman Contact menampilkan Pesan dimana Pembeli akan memberi pesan pada Toko 4Your Phone
 ![Pembeli Contact](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/b2046994-07a2-42b8-9e24-33911d6c1825)
 
-6
+6. Pada Halaman Orders menmapilkan status barang Pembeli sudah di Selesai atau masih Pending
+![Pembeli Orders](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/a201632f-e5f7-4dfc-8b29-89c34a25dfb6)
+
+7. Pada Halaman Search menampilkan barang yang akan kita cari
+![Pembeli Search](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/9955a710-213d-4410-b335-0e8d5d317969)
+
+8. Pada Halaman Cart menampilan barang yang ingin di checkout
+![Pembeli Checkout](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/0494e334-afbd-47b9-ace0-abf88b5dc638)
+
+9.  Pada Halaman Checkout menampilkan data alamat pembeli untuk pengiriman barang
+![Pembeli Cart](https://github.com/C2-Kelompok-4/Project-Akhir-WEB/assets/129931196/82979241-6d86-4ddf-a2f8-c4e7c79dae18)
+
+ 
 
